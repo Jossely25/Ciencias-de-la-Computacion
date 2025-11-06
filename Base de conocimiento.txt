@@ -1,0 +1,90 @@
+PREGUNTA: Hola
+RESPUESTA: ¡Hola!  Bienvenido a la ferretería. ¿En qué puedo ayudarte hoy?
+---
+PREGUNTA: Buenos días
+RESPUESTA: ¡Buenos días!  ¿Qué producto estás buscando hoy?
+---
+PREGUNTA: Buenas tardes
+RESPUESTA: ¡Buenas tardes!  ¿Necesitas herramientas, materiales o asesoría técnica?
+---
+PREGUNTA: Buenas noches
+RESPUESTA: ¡Buenas noches!  Nuestra ferretería está disponible para responder tus consultas.
+---
+PREGUNTA: Adiós
+RESPUESTA: ¡Hasta luego!  Gracias por visitar la ferretería, esperamos verte pronto.
+---
+PREGUNTA: Chao
+RESPUESTA: ¡Chao!  Que tengas un excelente día.
+---
+PREGUNTA: ¿Tienen martillos?
+RESPUESTA: Sí, tenemos martillos de carpintero, de bola y de goma. ¿Deseas uno de uso doméstico o profesional?
+---
+PREGUNTA: ¿Qué tipos de destornilladores venden?
+RESPUESTA: Contamos con destornilladores planos, de estrella, eléctricos y juegos completos con mango ergonómico.
+---
+PREGUNTA: ¿Tienen taladros eléctricos?
+RESPUESTA: Sí, tenemos taladros eléctricos y de batería de las marcas Bosch, DeWalt y Makita.
+---
+PREGUNTA: ¿Venden tornillos?
+RESPUESTA: Claro, tenemos tornillos para madera, metal y concreto en diferentes medidas y tipos de cabeza.
+---
+PREGUNTA: ¿Qué precio tiene una cinta métrica?
+RESPUESTA: Tenemos cintas métricas desde 8.000 pesos según la marca y longitud (3m, 5m y 8m).
+---
+PREGUNTA: ¿Tienen clavos?
+RESPUESTA: Sí, manejamos clavos de acero, de cobre, galvanizados y para concreto, en diferentes tamaños.
+---
+PREGUNTA: ¿Venden pintura?
+RESPUESTA: Sí, tenemos pinturas para interiores, exteriores y anticorrosivas. También vendemos brochas y rodillos.
+---
+PREGUNTA: ¿Tienen brochas?
+RESPUESTA: Claro, tenemos brochas de diferentes tamaños y tipos de cerda para pintura al agua o al aceite.
+---
+PREGUNTA: ¿Tienen guantes de trabajo?
+RESPUESTA: Sí, tenemos guantes de cuero, de látex, de nitrilo y reforzados para soldadura o jardinería.
+---
+PREGUNTA: ¿Venden herramientas eléctricas?
+RESPUESTA: Sí, contamos con taladros, sierras circulares, amoladoras, pulidoras y lijadoras eléctricas.
+---
+PREGUNTA: ¿Tienen llaves ajustables?
+RESPUESTA: Sí, tenemos llaves ajustables, llaves inglesas y juegos de llaves combinadas.
+---
+PREGUNTA: ¿Tienen cinta aislante?
+RESPUESTA: Sí, manejamos cinta aislante de varios colores y marcas, ideal para trabajos eléctricos.
+---
+PREGUNTA: ¿Venden tuberías de PVC?
+RESPUESTA: Claro, tenemos tuberías y accesorios de PVC para agua, drenaje y electricidad.
+---
+PREGUNTA: ¿Tienen pegante para PVC?
+RESPUESTA: Sí, disponemos de pegantes y limpiadores para instalaciones de PVC de alta resistencia.
+---
+PREGUNTA: ¿Tienen bombillos?
+RESPUESTA: Sí, vendemos bombillos LED, ahorradores y reflectores para interiores y exteriores.
+---
+PREGUNTA: ¿Tienen cables eléctricos?
+RESPUESTA: Sí, contamos con cables eléctricos de diferentes calibres y colores, tanto flexibles como rígidos.
+---
+PREGUNTA: ¿Venden cerraduras?
+RESPUESTA: Sí, tenemos cerraduras para puertas de madera y metal, con llave o manija, de marcas como Yale y Phillips.
+---
+PREGUNTA: ¿Qué marcas de herramientas manejan?
+RESPUESTA: Trabajamos con marcas reconocidas como Stanley, Truper, Makita, Bosch y DeWalt.
+---
+PREGUNTA: ¿Hacen domicilios?
+RESPUESTA: Sí, realizamos entregas a domicilio dentro del municipio. Solo debes confirmar la dirección y el pedido.
+---
+PREGUNTA: ¿Tienen servicio de asesoría?
+RESPUESTA: Sí, podemos orientarte en la elección de herramientas o materiales según el tipo de trabajo que vayas a realizar.
+---
+PREGUNTA: ¿Aceptan pagos con tarjeta?
+RESPUESTA: Sí, aceptamos pagos con tarjeta débito, crédito y transferencias electrónicas.
+---
+PREGUNTA: ¿Cuáles son los horarios de atención?
+RESPUESTA: Atendemos de lunes a sábado de 7:30 a.m. a 6:00 p.m. y domingos de 8:00 a.m. a 1:00 p.m.
+---
+PREGUNTA: Gracias
+RESPUESTA: ¡Con gusto! Estamos para ayudarte en lo que necesites.
+---
+PREGUNTA: Muchas gracias
+RESPUESTA: ¡No hay de qué!  Vuelve pronto a la ferretería.
+---
